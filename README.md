@@ -1,4 +1,4 @@
-# Ikeda
+# ikeda
 Final project for the computational physics class, Fall 2022 at UT Austin
 # Packages
 We are using the python packages below
