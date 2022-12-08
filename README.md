@@ -100,8 +100,8 @@ ikeda_adiabatic_model.plot_adiabatic_ikeda(b = 20, ic = 5, t_min = 0, t_max = 20
 5. Plotting the bifurcation for the logistic map.
 
 ```python
-model = analysis(1.1, 4, 3000, 5000)
-model.logistic_plot(1999, 0.6)
+model = analysis(beta_min = 1.1, beta_max = 4, n_beta = 3000, n_step = 5000)
+model.logistic_plot(n_sol_show = 1999, ic = 0.6)
 ```
 
 ![](figures/bi_logistic.jpg)
@@ -110,7 +110,7 @@ model.logistic_plot(1999, 0.6)
 6. Plotting the bifurcation diagram for the adiabatic ikdea map.
 
 ```python
-model = analysis(1.1, 10, 200000, 5000)
+model = analysis(beta_min = 1.1, beta_max = 10, n_beta = 200000, n_step = 5000)
 model.ikeda_adiabatic_plot(n_sol_show = 4999, ic = 1)
 ```
 ![](figures/bi_ikeda.jpg)
