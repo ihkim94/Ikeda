@@ -122,5 +122,6 @@ model.ikeda_adiabatic_plot(n_sol_show = 4999, ic = 1)
 * Using Synchronization for Prediction of High-Dimensional Chaotic Dynamics, R. Roy et al., Phys. Rev. Lett. 101, 154102 (2008)
 * William Gilpin's lecture note
 * Feliciano Guistino's Classical Mechnics lecture note
+* https://ipython-books.github.io/121-plotting-the-bifurcation-diagram-of-a-chaotic-dynamical-system/
 
 
