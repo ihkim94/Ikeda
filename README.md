@@ -3,6 +3,8 @@ Computational Physics Final Project (Fall 2022, PHY391C)
 
 Authors : Inhwan Kim, Casey Christian, Adam Christensen
 
+
+
 ## Setup
 
 1. Download the repository
