@@ -17,7 +17,7 @@ conda activate your_env_name
 
 conda install numpy matplotlib scipy
 
-source activate your_env_name
+conda activate your_env_name
 ```
 
 3. You also have to install ddeint to solve the delay differential equation at [here](https://github.com/Zulko/ddeint).
