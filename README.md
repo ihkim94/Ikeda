@@ -1,5 +1,6 @@
 # Analyzing Ikeda Map using Cobweb and Bifurcation diagram.
 Computational Physics Final Project (Fall 2022, PHY391C)
+
 Authors : Inhwan Kim, Casey Christian, Adam Christensen
 
 ## Setup
