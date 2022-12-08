@@ -16,7 +16,7 @@ Authors : Inhwan Kim, Casey Christian, Adam Christensen
 ```
 conda activate your_env_name
 
-conda install numpy matplotlib scipy
+conda install numpy matplotlib scipy  
 
 conda activate your_env_name
 ```
