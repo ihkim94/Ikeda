@@ -42,7 +42,7 @@ plt.ylabel('f(x)', fontsize=20)
 plt.plot(tpts, sol, color='k')
 ```
 
-![](figures/logistic_equation_function.png)
+![](figures/logistic_equation_function.jpg)
 
 
 
