@@ -45,6 +45,7 @@ plt.plot(tpts, sol, color='k')
 ![](figures/logistic_equation_function.png)
 
 
+
 2. 
 
 
