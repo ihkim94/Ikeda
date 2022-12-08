@@ -77,7 +77,6 @@ plt.plot(tpts, sol, color='k')
 
 
 3. Plotting the cobweb diagram for the logistic map.
-4. 
 ```python
 logistic_model = spiderweb(n = 1000)
 logistic_model.plot_logistic(r = 3, ic = 0.5)
