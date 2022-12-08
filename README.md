@@ -72,7 +72,9 @@ plt.xlabel('Time (s)', fontsize=20)
 plt.ylabel('f(x)', fontsize=20)
 plt.plot(tpts, sol, color='k')
 ```
+
 ![](figures/ikeda_equation_function.jpg) 
+
 
 3. Plotting the cobweb diagram for the logistic map.
 4. 
@@ -92,6 +94,7 @@ logistic_model.plot_logistic(r = 3, ic = 0.5)
 ikeda_adiabatic_model = spiderweb(n = 100)
 ikeda_adiabatic_model.plot_adiabatic_ikeda(b = 20, ic = 5, t_min = 0, t_max = 20, tn = 10000)
 ```
+
 ![](figures/cobweb_ikeda.jpg)
 
 
@@ -103,6 +106,7 @@ model.logistic_plot(1999, 0.6)
 ```
 
 ![](figures/bi_logistic.jpg)
+
 
 6. Plotting the bifurcation diagram for the adiabatic ikdea map.
 
