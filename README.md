@@ -72,7 +72,7 @@ plt.xlabel('Time (s)', fontsize=20)
 plt.ylabel('f(x)', fontsize=20)
 plt.plot(tpts, sol, color='k')
 ```
-![](figures/ikeda_equation_function.jpg)
+![](figures/ikeda_equation_function.jpg) 
 
 3. Plotting the cobweb diagram for the logistic map.
 4. 
